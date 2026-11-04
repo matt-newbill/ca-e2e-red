@@ -1,0 +1,10 @@
+{
+  "name": "ca-e2e-red",
+  "version": "0.0.0",
+  "private": true,
+  "description": "cloud-agents P2e acceptance fixture: a repository whose main branch is deliberately red",
+  "scripts": {
+    "setup": "node scripts/setup.js",
+    "test": "node --test"
+  }
+}
